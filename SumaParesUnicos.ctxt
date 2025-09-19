@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SumaParesUnicos
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nums\ target
+comment2.target=java.lang.String\ twoSumDetalle(int[],\ int)
+comment2.text=\r\n\ Devuelve\ un\ String\ con\ el\ detalle\ del\ resultado\:\r\n\ -\ "true\ (a\ +\ b\ \=\ target)"\ si\ encuentra\ par\r\n\ -\ "false"\ si\ no\ existe\r\n
+numComments=3

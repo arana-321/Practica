@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IntervalosNoSuperpuestos
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=intervals
+comment2.target=int\ eraseOverlapIntervals(int[][])
+comment2.text=\r\n\ Devuelve\ el\ m\u00EDnimo\ n\u00FAmero\ de\ intervalos\ a\ eliminar\ para\ que\ no\ haya\ solapamientos.\r\n\ Enfoque\ greedy\:\ ordenar\ por\ fin\ (end)\ ascendente\ y\ seleccionar\ tantos\ intervalos\r\n\ no\ solapados\ como\ sea\ posible.\r\n
+comment3.params=a\ b
+comment3.target=int\ compare(int[],\ int[])
+numComments=4

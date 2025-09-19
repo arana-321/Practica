@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FactorialGrande
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.lang.String\ factorialGrande(int)
+comment3.params=x\ resultado\ tam
+comment3.target=int\ multiplicar(int,\ int[],\ int)
+numComments=4
